@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "shaik mastan"
+echo "shaik"
